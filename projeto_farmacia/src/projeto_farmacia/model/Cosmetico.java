@@ -18,6 +18,7 @@ public class Cosmetico extends Produto {
 	}
 
 	public void visualizar() {
+		super.visualizar();
 		System.out.println("Fragância: " + this.frag);
 	}
 }

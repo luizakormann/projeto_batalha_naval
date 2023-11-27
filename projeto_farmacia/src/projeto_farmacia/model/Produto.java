@@ -61,7 +61,6 @@ public abstract class Produto {
 		}
 		}
 
-		System.out.println("Boas vindas a FarmaFloat! Aqui estão as informações do produto que você pediu: ");
 		System.out.println("ID do produto: " + this.id);
 		System.out.println("Nome do produto: " + this.nome);
 		System.out.println("Tipo do produto: " + tipop);

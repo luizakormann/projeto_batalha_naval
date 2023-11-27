@@ -33,7 +33,7 @@ public class Medicamento extends Produto {
 			break;
 		}
 		}
-		System.out.println("Medicamento precisa de receita: " + gen);
+		System.out.println("O medicamento é genérico? " + gen);
 	}
 
 }
